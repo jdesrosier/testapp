@@ -123,6 +123,14 @@ In most cases bumping the `react-scripts` version in `package.json` and running 
 
 We commit to keeping the breaking changes minimal so you can upgrade `react-scripts` painlessly.
 
+## Test Info
+
+This is just a test
+
+...
+Rick Flair says "Wooooo!"
+...
+
 ## Sending Feedback
 
 We are always open to [your feedback](https://github.com/facebook/create-react-app/issues).
