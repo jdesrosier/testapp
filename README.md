@@ -127,9 +127,9 @@ We commit to keeping the breaking changes minimal so you can upgrade `react-scri
 
 This is just a test
 
-...
+```
 Rick Flair says "Wooooo!"
-...
+```
 
 ## Sending Feedback
 
